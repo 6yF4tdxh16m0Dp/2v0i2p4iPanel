@@ -1,0 +1,1 @@
+vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@forward3.maryam1700.com:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=firefox&type=grpc&serviceName=&sni=forward333.maryam1500.top#%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3+-+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%F0%9F%94%B5
