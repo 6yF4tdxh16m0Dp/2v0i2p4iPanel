@@ -167,8 +167,6 @@ menu() {
     clear
     echo -e "${green}By --> INTERNET AZAD BA TEAM VIPI NET (: * ${rest}"
     echo ""
-    color="$((RANDOM % 8 + 31))"
-echo -e "\033[$color"m"متن مورد نظر برای رنگ‌آمیزی"\033[0m"
     echo -e "${red}Made BY Vipinet ${green}(AMIR) ${rest}"
     echo -e "${purple}*********************************${rest}"
     echo -e "${blue}     ###${cyan} VIPI NET VIP ${blue}###${rest}   ${purple}  * ${rest}"
