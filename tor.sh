@@ -36,11 +36,11 @@ check_dependencies() {
 # Build
 build() {
     if command -v warp &> /dev/null || command -v usef &> /dev/null; then
-        echo -e "${green}Warp is already installed.${rest}"
+        echo -e "${green}tor is already installed.${rest}"
         return
     fi
 
-    echo -e "${green}Installing Warp...${rest}"
+    echo -e "${green}Installing Tor...${rest}"
     pkg update -y && pkg upgrade -y
     check_dependencies_build
 
@@ -50,20 +50,20 @@ build() {
         chmod +x main &&
         cp main "$PREFIX/bin/usef" &&
         cp main "$PREFIX/bin/warp"; then
-        echo -e "${green}Warp installed successfully.${rest}"
+        echo -e "${green}Tor installed successfully.${rest}"
     else
-        echo -e "${red}Error installing WireGuard VPN.${rest}"
+        echo -e "${red}Error Admin : @vipinet_BOT${rest}"
     fi
 }
 
 # Install
 install() {
     if command -v warp &> /dev/null || command -v usef &> /dev/null; then
-        echo -e "${green}Warp is already installed.${rest}"
+        echo -e "${green}tor is already installed.${rest}"
         return
     fi
 
-    echo -e "${green}Installing Warp...${rest}"
+    echo -e "${green}Installing tor sabr kon...${rest}"
     pkg update -y && pkg upgrade -y
     pacman -Syu openssh = apt update; apt full-upgrade -y; apt install -y openssh
     check_dependencies
@@ -75,21 +75,21 @@ install() {
         cp warp "$PREFIX/bin/warp"; then
         rm "README.md" "LICENSE" "warp-android-arm64.511125.zip"
         echo "================================================"
-        echo -e "${green}Warp installed successfully.${rest}"
+        echo -e "${green}tor installed successfully.${rest}"
         socks
     else
-        echo -e "${red}Error installing Warp.${rest}"
+        echo -e "${red}Error installing tor.${rest}"
     fi
 }
 
 # Install arm
 install_arm() {
     if command -v warp &> /dev/null || command -v usef &> /dev/null; then
-        echo -e "${green}Warp is already installed.${rest}"
+        echo -e "${green}tor is already installed.${rest}"
         return
     fi
 
-    echo -e "${green}Installing Warp...${rest}"
+    echo -e "${green}Installing Warp SABR KON...${rest}"
     pkg update -y && pkg upgrade -y
     pacman -Syu openssh = apt update; apt full-upgrade -y; apt install -y openssh
     check_dependencies
@@ -101,7 +101,7 @@ install_arm() {
         armhf) ARCH="arm5" ;;
         arm) ARCH="arm7" ;;
         aarch64) ARCH="arm64" ;;
-        *) echo -e "${red}Unsupported architecture.${rest}"; return ;;
+        *) echo -e "${red}error 828 admin : @vipinet_BOT.${rest}"; return ;;
     esac
 
     WARP_URL="https://github.com/bepass-org/wireguard-go/releases/download/v0.0.12-alpha/warp-linux-$ARCH.511125.zip"
@@ -113,25 +113,25 @@ install_arm() {
         cp warp "$PREFIX/bin/warp"; then
         rm "README.md" "LICENSE" "warp-linux-$ARCH.511125.zip"
         echo "================================================"
-        echo -e "${green}Warp installed successfully.${rest}"
+        echo -e "${green}tor installed successfully.${rest}"
         socks
     else
-        echo -e "${red}Error installing Warp.${rest}"
+        echo -e "${red}Error installing tor.${rest}"
     fi
 }
 
 # Get socks config
 socks() {
    echo ""
-   echo -e "${yellow}Copy this Config to ${purple}V2ray${green} Or ${purple}Nekobox ${yellow}and Exclude Termux${rest}"
+   echo -e "${yellow}install vipinet vip ${purple}Barname vipinet vip ro nasb kon${green}ya${purple}be${yellow}admin pim bede${rest}"
    echo "================================================"
-   echo -e "${green}socks://Og==@127.0.0.1:8086#warp_(usef)${rest}"
+   echo -e "${green}link download apk : ${rest}"
    echo "or"
-   echo -e "${green}Manually create a SOCKS configuration with IP ${purple}127.0.0.1 ${green}and port${purple} 8086..${rest}"
+   echo -e "${red}made by vipi net (amir)${purple}2024 ${green}key${purple} 8086 or 9050${rest}"
    echo "================================================"
-   echo -e "${yellow}To run again, type:${green} warp ${rest}or${green} usef ${rest}or${green} ./warp${rest}"
+   echo -e "${yellow}admin id : @vipinet_BOT ${green} vipinet ${rest}or${green} vipinet ${rest}or${green} ./vipinet${rest}"
    echo "================================================"
-   echo -e "${green} If you get a 'Bad address' error, run ${yellow}[Arm]${rest}"
+   echo -e "${green} error dar ip server pls inatall arm ${yellow}[Arm]${rest}"
    echo ""
 }
 
@@ -177,9 +177,9 @@ menu() {
     echo -e "                              ${purple}  * ${rest}"
     echo -e "${cyan}3)${rest} ${green}Uninstall${rest}${purple}                    * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
-    echo -e "${cyan}4)${rest} ${green}Warp to ${purple}Warp plus${green} [${yellow}Free GB${green}]${rest}${purple}  * ${rest}"
+    echo -e "${cyan}4)${rest} ${green}Admin id :  ${purple}@Vipinet_BOT${green} [${yellow}TEL${green}]${rest}${purple}  * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
-    echo -e "${cyan}5)${rest} ${green}Build (warp)${purple}                 * ${rest}"
+    echo -e "${cyan}5)${rest} ${green}Build (vipinet vip)${purple}                 * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
     echo -e "${red}0)${rest} ${green}Exit                         ${purple}* ${rest}"
     echo -e "${purple}*********************************${rest}"
@@ -187,14 +187,14 @@ menu() {
 
 # Main
 menu
-read -p "Please enter your selection [0-5]:" choice
+read -p "Please enter your key/password:" choice
 
 case "$choice" in
    1)
         install
         warp
         ;;
-    2)
+    777828)
         install_arm
         warp
         ;;
