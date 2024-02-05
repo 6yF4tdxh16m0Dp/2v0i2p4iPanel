@@ -35,7 +35,7 @@ check_dependencies() {
 
 # Build
 build() {
-    if command -v vipinet &> /dev/null || command -v torvip &> /dev/null; then
+    if command -v warp &> /dev/null || command -v usef &> /dev/null; then
         echo -e "${green}tor is already installed.${rest}"
         return
     fi
