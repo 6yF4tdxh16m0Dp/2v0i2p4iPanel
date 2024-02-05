@@ -165,15 +165,15 @@ warp_plus() {
 # Menu
 menu() {
     clear
-    echo -e "${green}By --> Peyman * Github.com/Ptechgithub * ${rest}"
+    echo -e "${green}By --> INTERNET AZAD BA TEAM VIPI NET (: * ${rest}"
     echo ""
-    echo -e "${yellow}❤️Github.com/${cyan}bepass-org${yellow}/wireguard-go❤️${rest}"
+    echo -e "${red}Made BY Vipinet ${green}(AMIR) ${rest}"
     echo -e "${purple}*********************************${rest}"
-    echo -e "${blue}     ###${cyan} Warp in Termux ${blue}###${rest}   ${purple}  * ${rest}"
+    echo -e "${blue}     ###${cyan} VIPI NET VIP ${blue}###${rest}   ${purple}  * ${rest}"
     echo -e "${purple}*********************************${rest}"
-    echo -e "${cyan}1)${rest} ${green}Install Warp (vpn)${purple}           * ${rest}"
+    echo -e "${cyan}1)${rest} ${green}Install ZAPAS tor${purple}           * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
-    echo -e "${cyan}2)${rest} ${green}نصب پلاگین (vpn) [${yellow}Arm${green}] ${purple}    * ${rest}"
+    echo -e "${cyan}2)${rest} ${green}install tor (Amir) [${red}arm7${green}] ${purple}    * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
     echo -e "${cyan}3)${rest} ${green}Uninstall${rest}${purple}                    * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
