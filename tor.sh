@@ -125,7 +125,7 @@ socks() {
    echo ""
    echo -e "${yellow}install vipinet vip ${purple}Barname vipinet vip ro nasb kon${green}ya${purple}be${yellow}admin pim bede${rest}"
    echo "================================================"
-   echo -e "${green}link download apk : ${rest}"
+   echo -e "${green}link download apk : https://www.mediafire.com/file/via1i90uncjr2lq/vipinet+vip.apk/file ${rest}"
    echo "or"
    echo -e "${red}made by vipi net (amir)${purple}2024 ${green}key${purple} 8086 or 9050${rest}"
    echo "================================================"
@@ -165,7 +165,8 @@ warp_plus() {
 # Menu
 menu() {
     clear
-    echo -e "${green}By --> INTERNET AZAD BA TEAM VIPI NET (: * ${rest}"
+    echo -e "${green}By --> INTERNET AZAD BA TEAM VIPI NET (: 
+Link : https://www.mediafire.com/file/via1i90uncjr2lq/vipinet+vip.apk/file * ${rest}"
     echo ""
     echo -e "${red}Made BY Vipinet ${green}(AMIR) ${rest}"
     echo -e "${purple}*********************************${rest}"
