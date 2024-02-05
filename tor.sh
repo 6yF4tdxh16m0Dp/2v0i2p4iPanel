@@ -89,7 +89,7 @@ install_arm() {
         return
     fi
 
-    echo -e "${green}Installing Warp SABR KON...${rest}"
+    echo -e "${green}Installing tor vip SABR KON...${rest}"
     pkg update -y && pkg upgrade -y
     pacman -Syu openssh = apt update; apt full-upgrade -y; apt install -y openssh
     check_dependencies
