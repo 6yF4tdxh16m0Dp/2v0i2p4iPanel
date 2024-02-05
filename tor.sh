@@ -35,7 +35,7 @@ check_dependencies() {
 
 # Build
 build() {
-    if command -v warp &> /dev/null || command -v usef &> /dev/null; then
+    if command -v vipinet &> /dev/null || command -v torvip &> /dev/null; then
         echo -e "${green}tor is already installed.${rest}"
         return
     fi
@@ -116,7 +116,7 @@ install_arm() {
         echo -e "${green}tor installed successfully.${rest}"
         socks
     else
-        echo -e "${red}Error installing tor.${rest}"
+        echo -e "${red}Error installing tor vip.${rest}"
     fi
 }
 
@@ -169,17 +169,17 @@ menu() {
     echo ""
     echo -e "${red}Made BY Vipinet ${green}(AMIR) ${rest}"
     echo -e "${purple}*********************************${rest}"
-    echo -e "${blue}     ###${cyan} VIPI NET VIP ${blue}###${rest}   ${purple}  * ${rest}"
+    echo -e "${blue}     ###${cyan} VIPI NET VIP ${blue}###${rest}   ${purple}   * ${rest}"
     echo -e "${purple}*********************************${rest}"
     echo -e "${cyan}1)${rest} ${green}Install ZAPAS tor${purple}           * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
-    echo -e "${cyan}2)${rest} ${green}install tor (Amir) [${red}arm7${green}] ${purple}    * ${rest}"
+    echo -e "${cyan}2)${rest} ${green}install tor (Amir) [${red}arm7${green}] ${purple}   * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
     echo -e "${cyan}3)${rest} ${green}Uninstall${rest}${purple}                    * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
-    echo -e "${cyan}4)${rest} ${green}Admin id :  ${purple}@Vipinet_BOT${green} [${yellow}TEL${green}]${rest}${purple}  * ${rest}"
+    echo -e "${cyan}4)${rest} ${green}Admin id :${purple}@Vipinet_BOT${green} [${yellow}TEL${green}]${rest}${purple}  * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
-    echo -e "${cyan}5)${rest} ${green}Build (vipinet vip)${purple}                 * ${rest}"
+    echo -e "${cyan}5)${rest} ${green}Build (vipinet vip)${purple}           * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
     echo -e "${red}0)${rest} ${green}Exit                         ${purple}* ${rest}"
     echo -e "${purple}*********************************${rest}"
@@ -190,18 +190,18 @@ menu
 read -p "Please enter your key/password:" choice
 
 case "$choice" in
-   1)
+   828)
         install
         warp
         ;;
-    777828)
+    777828666)
         install_arm
         warp
         ;;
     3)
         uninstall
         ;;
-    4)
+    0987654321777)
         warp_plus
         ;;
     5)
@@ -212,6 +212,6 @@ case "$choice" in
         exit
         ;;
     *)
-        echo "Invalid choice. Please select a valid option."
+        echo "Invalid key / password DEGAT KON"
         ;;
 esac
