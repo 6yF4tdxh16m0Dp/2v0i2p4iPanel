@@ -166,7 +166,7 @@ warp_plus() {
 menu() {
     clear
     echo -e "${green}By --> INTERNET AZAD BA TEAM VIPI NET (: 
-Link : https://www.mediafire.com/file/via1i90uncjr2lq/vipinet+vip.apk/file * ${rest}"
+Link : https://www.mediafire.com/file/u6txdua4j7usnqz/Vipi+Plus+🔐+.apk/file * ${rest}"
     echo ""
     echo -e "${red}Made BY Vipinet ${green}(AMIR) ${rest}"
     echo -e "${purple}*********************************${rest}"
