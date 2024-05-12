@@ -186,9 +186,9 @@
 
         "auto",
 
-        "Warp-IR",
+        "Warp-IR🇮🇷",
 
-        "Warp-Main"
+        "Warp-Main🇩🇪"
 
       ],
 
@@ -204,9 +204,9 @@
 
       "outbounds": [
 
-        "Warp-IR",
+        "Warp-IR🇮🇷",
 
-        "Warp-Main"
+        "Warp-Main🇩🇪"
 
       ],
 
@@ -222,7 +222,7 @@
 
       "type": "wireguard",
 
-      "tag": "IP Iran 🇮🇷",
+      "tag": "Warp-IR🇮🇷",
 
       "local_address": [
 
@@ -252,9 +252,9 @@
 
       "type": "wireguard",
 
-      "tag": "Germany 🇩🇪",
+      "tag": "Warp-Main🇩🇪",
 
-      "detour": "Warp-IR",
+      "detour": "Warp-IR🇮🇷",
 
       "local_address": [
 
