@@ -2,7 +2,7 @@ import socket
 import random
 import struct
 
-target = "10.202.10.10"  # Target IP address
+target = "206.212.246.14"  # Target IP address
 port = 80  # DNS port
 
 def generate_dns_query():
