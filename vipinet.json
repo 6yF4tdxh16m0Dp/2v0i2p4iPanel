@@ -40,10 +40,6 @@
     ],
     "rules": [
       {
-        "domain": "mci.vipinetplusserver.kozow.com",
-        "server": "dns-direct"
-      },
-      {
         "domain_suffix": ".ir",
         "geosite": "ir",
         "server": "dns-direct"
@@ -59,14 +55,14 @@
       "sky.rethinkdns.com": [
         "188.114.96.3",
         "188.114.97.3",
-        "2a06:98c1:3120::3",
         "2a06:98c1:3121::3",
+        "2a06:98c1:3120::3",
         "104.18.203.232",
         "104.18.202.232",
         "188.114.96.3",
         "188.114.97.3",
-        "2a06:98c1:3121::3",
-        "2a06:98c1:3120::3"
+        "2a06:98c1:3120::3",
+        "2a06:98c1:3121::3"
       ]
     },
     "independent_cache": true
@@ -107,7 +103,6 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "✅️+•+سرور+مخصوص+همراه+اول+•+✅️ § 0",
         "Warp-IR🇮🇷",
         "Warp-Main🇩🇪"
       ],
@@ -117,21 +112,12 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "✅️+•+سرور+مخصوص+همراه+اول+•+✅️ § 0",
         "Warp-IR🇮🇷",
         "Warp-Main🇩🇪"
       ],
       "url": "http://cp.cloudflare.com/",
       "interval": "10m0s",
       "idle_timeout": "1h40m0s"
-    },
-    {
-      "type": "vless",
-      "tag": "✅️+•+سرور+مخصوص+همراه+اول+•+✅️ § 0",
-      "server": "mci.VipiNetPlusServer.kozow.com",
-      "server_port": 35104,
-      "uuid": "a27aa67b-78a6-456a-a93a-19f4454eba22",
-      "packet_encoding": ""
     },
     {
       "type": "wireguard",
@@ -232,7 +218,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:6756",
-      "secret": "_Hie8xvkB8l9rt8d"
+      "secret": "nKTUXaRWJfKDPaW1"
     }
   }
 }
