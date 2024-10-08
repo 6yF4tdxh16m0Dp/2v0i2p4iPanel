@@ -5,3 +5,4 @@ vless://3c59a815-54e1-4ee6-8eed-426c5fb31c16@[2a0b:4140:4acc::2]:9090?security=n
 
 vless://f403a110-8bc9-4ff4-970c-14937ed9e151@[2a0b:4140:4acc::2]:25169?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#Netherlands+ipv6+test++%F0%9F%87%B3%F0%9F%87%B1
 
+vless://a9fa8bae-5641-43dd-b64a-f0998075b99b@[2a0b:4140:4acc::2]:19249?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#Bulgaria+ipv6+test+%F0%9F%87%A7%F0%9F%87%AC
