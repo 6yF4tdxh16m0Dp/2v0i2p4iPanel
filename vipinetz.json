@@ -1,0 +1,12 @@
+socks://Og==@VipiNet.Plus.mmm:14030719#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7+%D8%AF%D8%B1+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%DB%B1%DB%B4%DB%B0%DB%B3%2F%DB%B7%2F%DB%B1%DB%B9+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D8%B4%D8%AF+%E2%9C%85%EF%B8%8F
+
+vless://5f86ec89-d423-42c7-9730-88d4caee828a@[2a0b:4140:4acc::2]:8080?security=none&encryption=none&host=speedtest.org&headerType=http&type=tcp#%E2%9C%85%EF%B8%8F%F0%9F%90%B9+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%F0%9F%87%A9%F0%9F%87%AA++ipv6
+vless://3c59a815-54e1-4ee6-8eed-426c5fb31c16@[2a0b:4140:4acc::2]:9090?security=none&encryption=none&host=speedtest.org&headerType=http&type=tcp#%E2%9C%85%EF%B8%8F+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+ipv6+%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7+%F0%9F%87%BA%F0%9F%87%B8
+
+vless://f403a110-8bc9-4ff4-970c-14937ed9e151@[2a0b:4140:4acc::2]:25169?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#Netherlands+ipv6+test++%F0%9F%87%B3%F0%9F%87%B1
+
+vless://a9fa8bae-5641-43dd-b64a-f0998075b99b@[2a0b:4140:4acc::2]:19249?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#Bulgaria+ipv6+test+%F0%9F%87%A7%F0%9F%87%AC
+
+vless://e325bd3e-a181-4448-9faf-f2384c031b98@[2a0b:4140:4acc::2]:49523?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#Italy+ipv6+Test+%F0%9F%87%AE%F0%9F%87%B9
+
+vless://c228a58d-8fb4-43ed-897d-1f10798d9ed1@[2a0b:4140:4acc::2]:5555?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#%F0%9F%91%BE+Tor+%7C+%D8%B4%D8%A8%DA%A9%D9%87+%DB%8C+%D8%A7%D9%85%D9%86+%F0%9F%91%BE
