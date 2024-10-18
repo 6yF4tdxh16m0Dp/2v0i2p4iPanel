@@ -13,4 +13,4 @@ vless://dd3a02a9-8a87-4f5f-941c-1652202f098b@[2a0b:4140:4acc::2]:9999?security=n
 
 vless://aecd5371-11a9-4f6c-a7cc-8c4bb4ecb1c5@[2a0b:4140:4acc::2]:3030?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#%E2%9C%85%EF%B8%8F+%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87+%7C+%F0%9F%87%AB%F0%9F%87%B7+ipv6
 
-vless://0e99996f-5106-450d-991c-4212863b3b98@77.105.146.221:1414?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%B0+Sweden+ipv4+Test+%F0%9F%87%B8%F0%9F%87%AA
+vless://0e99996f-5106-450d-991c-4212863b3b98@77.105.146.221:1414?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#%F0%9F%94%B0+Sweden+ipv4+Test+%F0%9F%87%B8%F0%9F%87%AA
