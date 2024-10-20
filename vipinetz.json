@@ -5,9 +5,11 @@ vless://42d028cb-cafb-4ff9-8e75-1cf35b967b23@[2a0b:4140:4acc::2]:8080?security=n
 
 vless://b7fd0713-be14-48c8-bb40-33406f12a657@[2a0b:4140:4acc::2]:9090?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#%E2%9C%85%EF%B8%8F%F0%9F%90%B9+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%D8%A2%D9%84%D9%85%D8%A7%D9%86+%7C+%F0%9F%87%A9%F0%9F%87%AA+ipv6
 
-vless://0ded1f35-4dd6-4fe5-878f-af4183c0b428@dl15.vipinet.ggff.net:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=iranserver.com#%F0%9F%94%A5+%D8%B3%D9%86%DA%AF%D8%A7%D9%BE%D9%88%D8%B1+%7C+%D8%B9%D8%A7%D8%AF%DB%8C+%F0%9F%87%B8%F0%9F%87%AC
 
 vless://fe293afb-bde2-49c1-aefb-e13d6ec9184a@dl15.vipinet.ggff.net:2095?mode=gun&security=reality&encryption=none&authority=&pbk=_szSsz9H6mMjlAeQJ4Lw90KRdQGfOiXPX66QDGb_3Dg&fp=random&spx=%2F&type=grpc&serviceName=www.speedtest.net&sni=dash.cloudflare.com&sid=dc0031ed4e#%F0%9F%94%A5+%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7+%7C+%D8%B9%D8%A7%D8%AF%DB%8C+%D8%AC%D8%AF%DB%8C%D8%AF+%F0%9F%87%BA%F0%9F%87%B8
+
+
+vless://0ded1f35-4dd6-4fe5-878f-af4183c0b428@dl15.vipinet.ggff.net:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=iranserver.com#%F0%9F%94%A5+%D8%B3%D9%86%DA%AF%D8%A7%D9%BE%D9%88%D8%B1+%7C+%D8%B9%D8%A7%D8%AF%DB%8C+%F0%9F%87%B8%F0%9F%87%AC
 
 vless://1090760c-60b6-404b-aad9-cc1a2efc8a5c@dl15.vipinet.ggff.net:1616?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+%D8%A2%D9%84%D9%85%D8%A7%D9%86+%7C+%D8%B9%D8%A7%D8%AF%DB%8C+%F0%9F%87%A9%F0%9F%87%AA
 
